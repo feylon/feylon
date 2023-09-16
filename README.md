@@ -1,5 +1,5 @@
-<div style="display:flex; justify-content-center">
-  <img src="https://wallpapercave.com/wp/wp12220880.jpg" style="width:800px;800px;border-radius: 100px;;margin:auto;display:block">
+<div style="">
+  <img src="https://w7.pngwing.com/pngs/582/369/png-transparent-lahore-leads-university-programmer-web-developer-education-design-web-design-computer-web-developer.png" style="width:400px;400px;;margin:auto;display:inline-block">
 
 </div>
 <div>
@@ -8,8 +8,17 @@
 
 <div>
 <h3>
-  <img src="https://top-fon.com/uploads/posts/2023-01/1674881972_top-fon-com-p-kartinki-kompyutera-dlya-prezentatsii-bez-172.png" style="width:50px;50px;border-radius: 15px;;margin:auto;display:block">
+  <img src="https://top-fon.com/uploads/posts/2023-01/1674881972_top-fon-com-p-kartinki-kompyutera-dlya-prezentatsii-bez-172.png" style="width:50px;50px;border-radius: 15px;">
   ABOUT ME
 </h3>
-  
+ <ul>
+  <li>I'm 21 years old</li>
+  <li> I'm studying at the Tashkent University of information Technologies branch of Samarkand(3 course)</li>
+  <li>
+    I'm live in Samarkand 
+  </li>
+  </ul>
+</div>
+<div>
+    <h2> Languages and tools :</h2>                                                                     
 </div>
