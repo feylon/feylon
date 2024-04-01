@@ -12,7 +12,7 @@
   ABOUT ME
 </h3>
  <ul>
-  <li>I'm 21 years old</li>
+  <li>I'm 22 years old</li>
   <li> I'm studying at the Tashkent University of information Technologies branch of Samarkand(3 course)</li>
   <li>
     I'm live in Samarkand 
@@ -28,5 +28,12 @@
   <img style="display:inline-block;width:80px;height:80px" src="https://media.slid.es/uploads/636679/images/9626964/stickers-1-02.png">
     <img style="display:inline-block;width:80px;height:80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Devicon-css3-plain-wordmark.svg/1200px-Devicon-css3-plain-wordmark.svg.png">
   <img style="display:inline-block;width:80px;height:80px" src="https://www.desura.com/files/images/65/65f875b0aa3b0eb635d4f76bfebca0f6.png">
+  
+  <img style="display:inline-block;width:80px;height:80px" src="https://miro.medium.com/v2/resize:fit:1200/1*DF0g7bNW5e2z9XS9N2lAiw.jpeg">
+  
+  <img style="display:inline-block;width:80px;height:80px" src="https://i.pinimg.com/originals/93/50/32/9350328b535785d9fb937c02802ec1a1.webp">
+  
+  <img style="display:inline-block;width:80px;height:80px" src="https://sabertoothtech.in/static/images/MongodbLogo.jpg">
+  
   
 </div>
