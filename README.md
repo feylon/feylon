@@ -3,7 +3,7 @@
 
 </div>
 <div>
-  <h2>HI  <img src="https://freepngimg.com/download/icon/1000382-man-saying-hi-emoji-[free-download-iphone-emojis]-free-photo-icon.png" style="width:20px;height:20px;border-bottom: 2px solid white;">, I'm <i>Ergashev Jamshid</i> </h2>
+  <h2>HI  <img src="https://yt3.ggpht.com/a/AATXAJwNWNkpvKFWMiIDC2CxDcaW_8BSqaO0b6-LBQ=s900-c-k-c0xffffffff-no-rj-mo" style="width:20px;height:20px;border-bottom: 2px solid white;">, I'm <i>Ergashev Jamshid</i> </h2>
 </div>
 
 <div>
