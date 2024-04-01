@@ -28,6 +28,7 @@
   <img style="display:inline-block;width:80px;height:80px" src="https://sabertoothtech.in/static/images/MongodbLogo.jpg">
   
   <img style="display:inline-block;width:80px;height:80px" src="https://www.svgrepo.com/show/342350/vue-js.svg">
+   <img style="display:inline-block;width:80px;height:80px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
   <img style="display:inline-block;width:80px;height:80px" src="https://gary-deshayes.com/wp-content/uploads/2022/01/NodeJS.jpg">
   <img style="display:inline-block;width:80px;height:80px" src="https://joshmachines.com/wp-content/uploads/2021/04/0_CPTNvq87xG-sUGdx.jpg">
   <img style="display:inline-block;width:80px;height:80px" src="https://cdn.onlinewebfonts.com/svg/img_154663.png">
