@@ -1,5 +1,5 @@
 <div style="display:flex;justify-content: center;">
-  <img src="https://i.morioh.com/2019/10/29/5dc6954ac0b8.jpg" style="width:600px;600px;display:inline-block">
+  <img src="https://i.ytimg.com/vi/71APTwdkpCM/maxresdefault.jpg" style="width:600px;600px;display:inline-block">
 
 </div>
 <div>
