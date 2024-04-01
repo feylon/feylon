@@ -1,4 +1,4 @@
-<div style="display:flex;justify-content: center;">
+<div style="display:flex;text-align:center;justify-content: center;">
   <img src="https://i.ytimg.com/vi/71APTwdkpCM/maxresdefault.jpg" style="width:600px;600px;display:inline-block">
 
 </div>
