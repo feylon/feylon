@@ -21,6 +21,12 @@
 </div>
 <div>
     <h2> Languages and tools :</h2>    
+  <img style="display:inline-block;width:80px;height:80px" src="https://miro.medium.com/v2/resize:fit:1200/1*DF0g7bNW5e2z9XS9N2lAiw.jpeg">
+  
+  <img style="display:inline-block;width:80px;height:80px" src="https://i.pinimg.com/originals/93/50/32/9350328b535785d9fb937c02802ec1a1.webp">
+  
+  <img style="display:inline-block;width:80px;height:80px" src="https://sabertoothtech.in/static/images/MongodbLogo.jpg">
+  
   <img style="display:inline-block;width:80px;height:80px" src="https://www.svgrepo.com/show/342350/vue-js.svg">
   <img style="display:inline-block;width:80px;height:80px" src="https://gary-deshayes.com/wp-content/uploads/2022/01/NodeJS.jpg">
   <img style="display:inline-block;width:80px;height:80px" src="https://joshmachines.com/wp-content/uploads/2021/04/0_CPTNvq87xG-sUGdx.jpg">
@@ -29,11 +35,6 @@
     <img style="display:inline-block;width:80px;height:80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Devicon-css3-plain-wordmark.svg/1200px-Devicon-css3-plain-wordmark.svg.png">
   <img style="display:inline-block;width:80px;height:80px" src="https://www.desura.com/files/images/65/65f875b0aa3b0eb635d4f76bfebca0f6.png">
   
-  <img style="display:inline-block;width:80px;height:80px" src="https://miro.medium.com/v2/resize:fit:1200/1*DF0g7bNW5e2z9XS9N2lAiw.jpeg">
-  
-  <img style="display:inline-block;width:80px;height:80px" src="https://i.pinimg.com/originals/93/50/32/9350328b535785d9fb937c02802ec1a1.webp">
-  
-  <img style="display:inline-block;width:80px;height:80px" src="https://sabertoothtech.in/static/images/MongodbLogo.jpg">
   
   
 </div>
