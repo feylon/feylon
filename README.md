@@ -13,7 +13,7 @@
 </h3>
  <ul>
   <li>I'm 22 years old</li>
-  <li> I'm studying at the Tashkent University of information Technologies branch of Samarkand(3 course)</li>
+  <li> I'm studying at the Tashkent University of information Technologies branch of Samarkand(4 course)</li>
   <li>
     I'm live in Samarkand 
   </li>
