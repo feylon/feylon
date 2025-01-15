@@ -15,9 +15,10 @@
  </a>
 </p>
 <!-- ---- -->
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feylon&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />	
 
-	
+</p>	
 <!-- --- -->
 <div>
 <h3>
