@@ -2,9 +2,18 @@
   <img src="https://i.ytimg.com/vi/71APTwdkpCM/maxresdefault.jpg" style="width:600px;600px;display:inline-block">
 
 </div>
-<div>
-  <h2>HI  <img src="https://yt3.ggpht.com/a/AATXAJwNWNkpvKFWMiIDC2CxDcaW_8BSqaO0b6-LBQ=s900-c-k-c0xffffffff-no-rj-mo" style="width:20px;height:20px;border-bottom: 2px solid white;">, I'm <i>Ergashev Jamshid</i> </h2>
-</div>
+<h1 align="center">Hi there, I'm Jamshid 👋 </h1> 
+
+
+
+
+
+<p align="center">
+ <a href="#" alt="Jamshid's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=feylon&theme=tokyonight&show_icons=true" />
+
+ </a>
+</p>
 
 <div>
 <h3>
