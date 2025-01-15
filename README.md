@@ -17,9 +17,7 @@
 <!-- ---- -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feylon&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />	
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feylon&repo=RxKotlin-RxJava2-Android-Samples&show_owner=true&theme=onedark" />  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feylon&repo=stacking-dApp&show_owner=true&theme=onedark" />
-</p>	
+	
 <!-- --- -->
 <div>
 <h3>
