@@ -69,4 +69,9 @@
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
+## ⏳ Weekly Development Breakdown  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
