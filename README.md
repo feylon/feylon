@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me   
 
 <img 
   src="https://avatars.githubusercontent.com/u/129485306?v=4" 
