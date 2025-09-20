@@ -1,32 +1,31 @@
-
-<h1 align="center">Hi there, I'm Jamshid 👋 </h1> 
-
-
-
-
+<h1 align="center">👋 Hi there, I'm Jamshid</h1>
 
 <p align="center">
- <a href="#" alt="Jamshid's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=feylon&theme=tokyonight&show_icons=true" />
-
+ <a href="https://github.com/feylon" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=feylon&theme=tokyonight&show_icons=true" alt="Jamshid's GitHub stats"/>
  </a>
 </p>
-<!-- ---- -->
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feylon&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />	
 
-</p>	
-<!-- --- -->
-# About Me
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feylon&layout=compact&theme=onedark&hide=css,html,jupyter%20notebook" alt="Top Languages"/>
+</p>
+
+---
+
+## 👨‍💻 About Me  
 
 <img 
   src="https://avatars.githubusercontent.com/u/129485306?v=4" 
-  alt="About Me Icon" 
-  style="width:50px; height:50px; border-radius: 25px;"
+  alt="Jamshid Avatar" 
+  width="70" 
+  height="70" 
+  style="border-radius:50%;"
 />
 
-- I'm 23 years old.
-Fullstack Developer (Nuxt js & Nest js)
+- 🧑 23 y.o.  
+- 💻 Fullstack Developer (Nuxt.js & Nest.js)  
+- 🚀 Passionate about web development & clean code  
+
 ---
 
 ## Languages and Tools
