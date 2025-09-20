@@ -69,6 +69,14 @@
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=feylon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+
+
 ## ⏳ Weekly Development Breakdown  
 
 <!--START_SECTION:waka-->
