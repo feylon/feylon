@@ -20,15 +20,13 @@
 # About Me
 
 <img 
-  src="https://top-fon.com/uploads/posts/2023-01/1674881972_top-fon-com-p-kartinki-kompyutera-dlya-prezentatsii-bez-172.png" 
+  src="https://avatars.githubusercontent.com/u/129485306?v=4" 
   alt="About Me Icon" 
   style="width:50px; height:50px; border-radius: 15px;"
 />
 
-- I'm 22 years old.
-- I'm studying at the Tashkent University of Information Technologies, Samarkand branch (4th course).
-- I live in Samarkand.
-
+- I'm 23 years old.
+Fullstack Developer (Nuxt js & Nest js)
 ---
 
 ## Languages and Tools
