@@ -69,9 +69,24 @@
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-## ⏳ Weekly Development Breakdown  
+name: WakaTime Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+on:
+  schedule:
+    - cron: "0 0 * * *" # Har kuni yangilash (UTC vaqti)
+  workflow_dispatch: # Qo'lda ishga tushirish ham mumkin
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          SHOW_TIME: true
+          SHOW_TOTAL: true
 
 
