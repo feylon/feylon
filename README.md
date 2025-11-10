@@ -91,6 +91,7 @@
 </p>
 
 ## ⏳ Weekly Development Breakdown
+[![wakatime](https://wakatime.com/badge/user/018c6eb7-5205-49ed-85bd-ed4c1ab37b6f.svg)](https://wakatime.com/@018c6eb7-5205-49ed-85bd-ed4c1ab37b6f)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
